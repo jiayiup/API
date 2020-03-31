@@ -16,4 +16,9 @@
 
 #### 选用了face_rectangle此常规方法，通过对人脸质量的分析，抽取其中的皮肤质量对其进行分析，可以获得不同肤质的颜值自信与价值。
 
-## Azure
+## Azure和百度智能云
+### 在Azure的操作实践中，我所申请的API始终401报错；在百度智能云也出现了相似的情况，无法 获取Access Token，经过查找但仍未找到解决的办法。
+
+<img src="https://github.com/jiayiup/API/blob/master/img/baidu1.png" />
+
+<img src="https://github.com/jiayiup/API/blob/master/img/AZ1.png" />
